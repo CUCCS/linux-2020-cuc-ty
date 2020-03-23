@@ -139,5 +139,13 @@ https://www.optbbs.com/thread-5938685-1-1.html
 
 https://www.cnblogs.com/sallon/archive/2012/11/11/2765627.html
 
+https://www.cnblogs.com/ytg-share/p/5879587.html
+
+# 实验中遇到的其他问题
+
+在用github提交作业时，无法将仓库clone到本地，原因是权限不够，发现是密钥没有了，然后经查找，我新建了一个密钥之后解决了问题
+
+
+
 
 
