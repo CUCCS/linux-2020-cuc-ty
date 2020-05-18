@@ -62,7 +62,7 @@ DVWA
 
   如下图所示，即安装成功
 
-  ![VeryNginx安装成功](/img_5/VeryNginx安装成功.png)
+  ![VeryNginx安装成功](img_5/VeryNginx安装成功.png)
 
 - ### 修改配置文件
 
@@ -96,9 +96,9 @@ DVWA
 
   之后访问 http://192.168.56.101/verynginx/index.html
 
-  ![VeryNginx访问成功1](/img_5/VeryNginx访问成功1.png)
+  ![VeryNginx访问成功1](img_5/VeryNginx访问成功1.png)
 
-  ![VeryNginx访问成功2](/img_5/VeryNginx访问成功2.png)
+  ![VeryNginx访问成功2](img_5/VeryNginx访问成功2.png)
 
  
 
@@ -176,7 +176,7 @@ DVWA
 
   sudo systemctl restart nginx
 
-  ![DVWA访问成功](/img_5/DVWA访问成功.png)
+  ![DVWA访问成功](img_5/DVWA访问成功.png)
 
 ## 安全加固要求实现
 
@@ -184,19 +184,19 @@ DVWA
 
   添加Matcher
 
-  ![添加Matcher](/img_5/添加Matcher.png)
+  ![添加Matcher](img_5/添加Matcher.png)
 
   添加response
 
-  ![添加response](/img_5/添加response.png)
+  ![添加response](img_5/添加response.png)
 
   添加filter
 
-  ![添加filter](/img_5/添加filter.png)
+  ![添加filter](img_5/添加filter.png)
 
   错误提示信息界面
   
-  ![错误提示信息界面1](/img_5/错误提示信息界面1.png)
+  ![错误提示信息界面1](img_5/错误提示信息界面1.png)
 
 
 
@@ -204,7 +204,7 @@ DVWA
 
   添加Matcher、response\filter
 
-  ![错误提示信息界面2](/img_5/错误提示信息界面2.png)
+  ![错误提示信息界面2](img_5/错误提示信息界面2.png)
 
 - ### 在不升级Wordpress版本的情况下，通过定制VeryNginx的访问控制策略规则，热修复WordPress < 4.7.1 - Username Enumeration
 
@@ -222,11 +222,11 @@ DVWA
 
   白名单访问
 
-  ![白名单访问](/img_5/白名单访问.png)
+  ![白名单访问](img_5/白名单访问.png)
 
   非白名单访问
 
-  ![非白名单访问](/img_5/非白名单访问.png)
+  ![非白名单访问](img_5/非白名单访问.png)
 
 - ### 通过定制VeryNginx的访问控制策略规则实现：
       
