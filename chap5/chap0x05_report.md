@@ -30,7 +30,7 @@ DVWA
 
   如下图所示，即安装成功
 
-  ![nginx安装成功](/img_5/nginx安装成功.png)
+  ![nginx安装成功](nginx安装成功.png)
 
 ## 配置VeryNginx
 
